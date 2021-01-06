@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.poster {
+  width: 200px;
+  height: 300px;
+}
+.nav {
+  margin-bottom: 5%;
+}
+.new {
+  margin: 3%;
+}
+.item {
+  color: rgb(158, 50, 50);
+}
+.trailer {
+  padding-bottom: 4%;
+  padding-top: 3%;
+  align-items: center;
+}
+.title {
+  padding-bottom: 1%;
+}
